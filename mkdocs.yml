@@ -1,3 +1,8 @@
-site_name: Blog
 site_dir: ./docs
 docs_dir: ./src
+site_name: Blog
+site_url: https://gabrielmsilva00.github.io/Blog/
+plugins:
+  - blog
+theme:
+  name: material
