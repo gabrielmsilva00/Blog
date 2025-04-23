@@ -7,3 +7,5 @@ plugins:
       blog_dir: .
 theme:
   name: material
+nav:
+  - Welcome: index.md
