@@ -3,6 +3,7 @@ docs_dir: ./src
 site_name: Blog
 site_url: https://gabrielmsilva00.github.io/Blog/
 plugins:
-  - blog
+  - blog:
+      blog_dir: .
 theme:
   name: material
